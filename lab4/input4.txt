@@ -1,0 +1,9 @@
+Breakfast 1.4
+Answer Phone 2
+Eat 1
+Finish HW 3
+Go To Class 3
+Walk dog 1
+Eat again 4
+Watch youtube 1.2
+	
