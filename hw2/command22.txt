@@ -1,0 +1,5 @@
+Add (15) [this sentence shouldn't be added because it's out of bounds]
+Sort (alphabetically)
+Add (6) [this sentence should be added to the end of the list]
+Remove [test]
+Add (0) [another sentence]

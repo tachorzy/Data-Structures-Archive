@@ -1,0 +1,16 @@
+Remove [us]
+Sort (length)
+Sort (alphabetically)
+Add (0) [this should go to the beginning until it gets sorted]
+Add (70) [this should not be added]
+Sort (length)
+Remove [a]
+Remove [e]
+Remove [i]
+Remove [o]
+Remove [u]
+Remove [y]
+Add (0) [first]
+Add (1) [second]
+Add (2) [third]
+Add (4) [Not added]

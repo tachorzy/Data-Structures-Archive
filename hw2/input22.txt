@@ -1,0 +1,8 @@
+Length
+
+this file will be testing each of the different commands with your sentences
+test sentence number one
+another sentence
+longer sentence than another sentence
+most of the sentences have the word sentence in them
+last sentence of the input

@@ -1,0 +1,6 @@
+don't add any empty lines
+duplicate line there should only be one of this in the output
+extra sentence
+for this example the command file will be empty
+test lines
+that means you just need to sort this file alphabetically
